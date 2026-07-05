@@ -64,3 +64,5 @@ Run the notebook top to bottom. It will:
 3. Train for 25 epochs (~3mins), printing loss and accuracy each epoch
 4. Plot the training loss curve
 5. Display a 10x5 grid of test predictions (green = correct, red = incorrect)
+
+This notebook is alternatively available ([here](https://colab.research.google.com/drive/1ThTHrdhnc5xlQ12-ZU0K-9TrnUCU8JRm?usp=sharing)) on Google Colab
